@@ -15,3 +15,7 @@ Esta es una tarea de Laboratorio de Métodos Computacionales
 # Acerca del Autor
 
 Joaquin Peñuela Parra nacio en Bucaramanga el 16 de enero de 2001. Estudia Física, le gusta tocar guitarra y jugar videojuegos.
+
+## Sobre el Colaborador
+
+María Gabriela Suárez Pérez amante de la paleontología.
