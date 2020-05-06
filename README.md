@@ -12,3 +12,6 @@ Esta es una tarea de Laboratorio de Métodos Computacionales
 
 ![Villa de Leyba](https://upload.wikimedia.org/wikipedia/commons/6/66/Villadeleyva04.jpg)
 
+# Acerca del Autor
+
+Joaquin Peñuela Parra nacio en Bucaramanga el 16 de enero de 2001
